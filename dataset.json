@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Nebraska, US",
+  "export_job_id": "cadb0ec9-ea4a-45c1-84c3-a38536810372",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 226484,
+  "location_name": "Nebraska",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-nebraska-us-sample-226484",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/226484/beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "9d2187647d50ac17cb56cc39c327d779679958da86d3ee812b4206b2464483ab",
+  "sample_size_bytes": 36395,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:08:11.937090+00:00"
+}

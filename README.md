@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Nebraska, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `226484` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:08:11.937090+00:00 |
+| Full dataset size | 49 records |
+| Free sample size | 4 records (8.16%) |
+| Last export | 2026-04-15T06:45:37.332061+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-nebraska-us-sample-226484/releases/download/sample-latest/beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample

@@ -1,12 +1,12 @@
 {
-  "export_job_id": "66bb20ae-a1c1-45d1-8654-35e6237d81d7",
+  "export_job_id": "abdfccab-3737-4e48-b21f-ddbd186686f9",
   "id_short": 226484,
-  "published_at": "2026-04-18T07:38:58Z",
+  "published_at": "2026-04-22T19:24:32Z",
   "repo_name": "top-50-restaurant-category-dominators-in-nebraska-us-sample-226484",
   "sample_asset_name": "beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/226484/beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "6e696066646bfd6955d1f807b3beb38f746cecda6f39529ac938f4cb740e8549",
-  "sample_size_bytes": 34853,
-  "total_records": 49
+  "sample_records": 5,
+  "sample_sha256": "b732b510be32eed4c1abd8cb2416ba0bcc81a84d8127e187ea8031426bd182c3",
+  "sample_size_bytes": 27794,
+  "total_records": 53
 }

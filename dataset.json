@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Nebraska, US",
-  "export_job_id": "abdfccab-3737-4e48-b21f-ddbd186686f9",
+  "export_job_id": "1bfab02c-7f4e-41af-b598-69f75784301b",
   "github_org": "Beamstation-Datasets",
   "id_short": 226484,
   "location_name": "Nebraska",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-nebraska-us-sample-226484",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/226484/beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_pct": 9.43,
+  "sample_pct": 10.0,
   "sample_records": 5,
-  "sample_sha256": "b732b510be32eed4c1abd8cb2416ba0bcc81a84d8127e187ea8031426bd182c3",
-  "sample_size_bytes": 27794,
-  "total_records": 53,
-  "updated_at": "2026-04-22T12:55:58.469916+00:00"
+  "sample_sha256": "fe0f8090d88d8bf42f9ad1f7d9108f04ae4234703f518200180202bb48fdb8a7",
+  "sample_size_bytes": 35111,
+  "total_records": 50,
+  "updated_at": "2026-04-29T13:46:41.083056+00:00"
 }

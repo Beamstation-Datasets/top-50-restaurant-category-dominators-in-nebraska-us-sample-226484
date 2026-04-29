@@ -9,9 +9,9 @@
 | Dataset ID | `226484` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 53 records |
-| Free sample size | 5 records (9.43%) |
-| Last export | 2026-04-22T12:55:58.469916+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-29T13:46:41.083056+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-nebraska-us-sample-226484/releases/download/sample-latest/beamstation_226484_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
